@@ -1,0 +1,6 @@
+{
+  "name": "Amirhub SVG to EPS Converter",
+  "description": "Professional SVG to EPS vector converter with lossless quality and batch processing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
